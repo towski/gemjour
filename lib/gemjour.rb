@@ -28,7 +28,7 @@ install <server> <gem>
 list
   List all available gem servers.
 
-show <server>
+list <server>
   List all gems available from <server>
 
     HELP
